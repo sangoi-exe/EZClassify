@@ -1,0 +1,18 @@
+train: "E:/Dev/AVMB dataset/treinos/v1/train/images"
+val: "E:/Dev/AVMB dataset/treinos/v1/val/images"
+
+nc: 12
+names: [
+  "CNH_ABERTA",
+  "CNH_FRENTE",
+  "CNH_VERSO",
+  "RG_ABERTO",
+  "RG_FRENTE",
+  "RG_VERSO",
+  "CPF_COMPLETO",
+  "CPF_FRENTE",
+  "CPF_VERSO",
+  "CIC_FRENTE",
+  "CIC_VERSO",
+  "CERT_NASC"
+]
